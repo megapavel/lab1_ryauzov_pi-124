@@ -1,0 +1,32 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 20px;
+}
+
+main{
+    margin-bottom: 70px;
+}
+
+h1{
+    font-size: 40px;
+    color: rgb(153, 71, 153)
+}
+
+button {
+            background-color: #090909;
+            padding: 15px 20px;
+            border-radius: 9px;
+            border: none;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 30px;
+            color: #4ea044;
+            margin-bottom: 30px;
+            cursor: pointer;
+        
+       }
+
+article{
+    margin-bottom: 40px;
+}
+
